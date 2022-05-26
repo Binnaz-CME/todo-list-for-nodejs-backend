@@ -1,0 +1,14 @@
+:root {
+  --green: #3e8a6b;
+}
+
+.App {
+  text-align: center;
+  padding: 2em;
+}
+
+.title {
+  color: var(--green);
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 0.03em;
+}
